@@ -1,0 +1,6 @@
+{
+  "name": "IP Tracker",
+  "description": "Real-time network IP tracking dashboard with open-source global mapping, historical query logs, and ISP intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
